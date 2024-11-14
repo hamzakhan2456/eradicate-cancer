@@ -5,8 +5,8 @@
   </a>
   <br />
   <div>
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/-Gemini AI-black?style=for-the-badge&logoColor=white&logo=gemini&color=412991" alt="gemini ai" />
+    <img src="" />
+    <img src="" />
   </div>
   <h3 align="center">AI Cancer Care (BeatCancer: AI Assistant to Craft Personalized Cancer Care)</h3>
   <div align="center">
